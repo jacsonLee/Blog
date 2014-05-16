@@ -1,6 +1,7 @@
-# [Fritx's Blog](.)
+# [Jason's Blog](.)
 
-> Life is short, I use JS.
+> Life is short.I am hipper.I love sillper.
 
-- [Projects](projects/index.md)
+- [Application](application/index.md)
 - [About Me](aboutme.md)
+- [FUCK](caonimabi.md)
