@@ -7,8 +7,10 @@
   var pageBase = 'p/';
   var pageExt = 'md';
   var mainPage = location.search.slice(1)
-    .replace(/&.*/, '') || 'projects/index';
+    .replace(/&.*/, '') || 'application/index';
   var mainTitle = '';
+  var onlineUrl = 'http://jacsonlee.github.io/blog/' +
+    location.search.replace(/&.*/, '');
 
 
   function config() {
@@ -38,7 +40,7 @@
         render(data, options, function (err, html) {
           if (err && callback) return callback(err);
           var $el = $(sel);
-          $el.hide().html(html);
+          $el.hide().html(html).attr('data-loaded', true);
 
           $el.find('[src]').each(function () {
             var $el = $(this);
@@ -78,6 +80,21 @@
             $('title').text(function (x, old) {
               return mainTitle + ' - ' + old;
             });
+
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            window.disqus_shortname = 'jacsonlee'; // required: replace example with your forum shortname
+            window.disqus_title = mainTitle;
+            window.disqus_identifier = mainPage;
+            window.disqus_url = onlineUrl;
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+              var dsq = document.createElement('script');
+              dsq.type = 'text/javascript';
+              dsq.async = true;
+              dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+              document.getElementsByTagName('body')[0].appendChild(dsq);
+            })();
           }
 
           $el.show();
@@ -88,7 +105,7 @@
   }
 
   function onNotFound() {
-    location.href = '.';
+    if (!$('#main-page').attr('data-loaded')) location.href = '.';
   }
 
   function start() {

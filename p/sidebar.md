@@ -4,4 +4,4 @@
 
 - [Application](application/index.md)
 - [About Me](aboutme.md)
-- [FUCK](caonimabi.md)
+- [Diary](My Think OF HelloWorld)
