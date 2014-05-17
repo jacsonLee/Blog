@@ -1,15 +1,15 @@
 # About Me
 
-## Fritz Lin
+## Jason Lee
 
 <img alt="avatar" src="avatar.jpg" width="240">
 
-> Life is short, I use JS.
+> Life is short.I am hippie.I love slippers.
 
 ## Major
 
-- Node.js/JavaScript Programming
-- Website Design (CSS/HTML)
+- Android develops
+- Maybe cocos2d-x 
 
 ## College Studying In
 
@@ -17,4 +17,4 @@ CS College in WYU, China
 
 ## On Github
 
-[@fritx](https://github.com/fritx)
+[@jacsonLee](https://github.com/jacsonLee)
