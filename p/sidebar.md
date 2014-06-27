@@ -5,4 +5,5 @@
 - [Diary](Diary/index.md)
 - [Thought](Thought/index.md)
 - [Application](application/index.md)
+- [Repost](repost/guojiabao.md)
 - [About Me](aboutme.md)
