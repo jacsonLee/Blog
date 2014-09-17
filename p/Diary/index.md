@@ -1,5 +1,8 @@
 #  Open & Share
 
+## [有一种落差是：你配不上自己的野心，也辜负了所受的苦难](luocha.md)
+>There is no retreat
+
 ## [暑假-前期](shujiaqianqi.md)
 > 真烦
 
