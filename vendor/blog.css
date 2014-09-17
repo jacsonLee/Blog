@@ -64,7 +64,7 @@ blockquote {
 /* TODO: be responsive, use grid instead of absolute */
 .sidebar {
   color: #fff;
-  background-color: rgb(42, 205, 255);
+  background-color: rgb(73, 101, 159);
 }
 .sidebar-inner {
   padding: 2% 5%;
@@ -76,7 +76,7 @@ blockquote {
   text-decoration: none;
 }
 .sidebar blockquote {
-  color: #666;
+  color: #fff;
 }
 
 .main-inner {
