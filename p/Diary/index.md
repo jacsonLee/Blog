@@ -1,7 +1,7 @@
 #  Open & Share
 
 ## [暑假-前期](shujiaqianqi.md)
-> 真他妈烦
+> 真烦
 
 ## [这一年来](dayiyinian.md)
 > Talk is cheap,show me the code.
