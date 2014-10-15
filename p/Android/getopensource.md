@@ -32,21 +32,25 @@
  
 ## 4.App
 [Libraries for developers][9]
+
 [DevAppsDirect ][10]
+
 [23code-android][11]
 
 >以上三个都是开源库汇总的 App，Libraries for developers 和 DevAppsDirect 为开发必备。  
 
 ## 5.其他
 
-[此处输入链接的描述][12]
+[GoogleCode][12]
  托管在 Google Code 的项目，目前大多数在 GitHub 上都有副本
  
  [Android-Weekly ][13]
 > Android周刊
  
 ##  6 .如何获取最新开源库
+
 [android-dev-com][14]
+
 [android-dev-cn][15]
 
 > github汇总，每天从feed里面看动态即可
