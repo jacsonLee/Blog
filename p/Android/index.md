@@ -2,3 +2,6 @@
 
 ### [第一次gradle成功构建以及编译android stdio 项目](gradle1.md)
 > 很烂的教程，仅作参考
+
+### [开源库获取途径整理](getopensource.md)
+> 介绍目前收藏 Android 开源库比较多的 GitHub 项目、网站、Twitter、App 及如何获取最新的 Android 开源库。
