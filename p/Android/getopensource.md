@@ -52,7 +52,8 @@
 > github汇总，每天从feed里面看动态即可
  
  
-                                       转载自[trinea大神][16]
+ 
+ 转载自[Trinea][16]
 
 
   [1]: https://github.com/StudyRepository/android-open-project
