@@ -4,8 +4,9 @@
 
 <img alt="avatar" src="avatar.jpg" width="240">
 
-> Life is short.I am hippie.I love slippers.
-> Talk is cheap.Show me the code.
+> 理解（りかい）されるということは、一種（いっしゅ）の贅沢（ぜいたく）である。
+
+
 
 ## Major
 - Java
