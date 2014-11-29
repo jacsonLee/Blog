@@ -9,3 +9,6 @@
 ### [Android开源项目汇总](AndroidOpenSource.md)
 > 很喜欢的一个Android开源项目汇总
 
+### [Genymotion的一个问题](genymotionBlack.md)
+> Unable to connect to your virtual device!Genymotion will now stop.please check your virtualBox network configuration.
+
