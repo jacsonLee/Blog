@@ -122,3 +122,28 @@
   start();
 
 })();
+
+;(function(){
+
+  var names = [
+    '2010072611150872',
+    '2010072611151106',
+    '2010072611151148'
+  ]
+  var ext = '.gif'
+
+  var src = 'p/ducks/' + sample(names) + ext
+  $('<img>').addClass('duck')
+    .attr('src', src)
+    .appendTo('body')
+
+
+  function sample(arr){
+    var idx = parseInt(Math.random() * arr.length)
+    return arr[idx] || null
+  }
+
+})()
+
+
+

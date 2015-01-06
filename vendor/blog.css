@@ -5,6 +5,7 @@ html, body {
   font-size: 18px;
   font-family: "Microsoft YaHei", sans-serif;
   work-break: break-word;
+  background-color: #fff;
 }
 
 img {
@@ -96,6 +97,13 @@ blockquote {
   left: -9999px;
 }
 
+.duck {
+  display: none;
+  position: fixed;
+  right: 8px;
+  top: 200px;
+  z-index: 9999;
+}
 .fork-me {
   position: absolute;
   right: 0;
@@ -119,6 +127,10 @@ blockquote {
     padding-left: 10%;
     padding-right: 10%;
   }
+}
+
+.duck {
+  display: block;
 }
 
 .fork-me {
