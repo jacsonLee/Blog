@@ -5,7 +5,6 @@
 - [Android](Android/index.md)
 - [PHP](PHP/index.md)
 - [Diary](Diary/index.md)
-- [Thought](Thought/index.md)
 - [Application](application/index.md)
 - [Repost](repost/index.md)
 - [To do](To-Do.md)
