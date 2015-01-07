@@ -4,9 +4,6 @@
 >There is no retreat
 
 
-## [这一年来](dayiyinian.md)
-> Talk is cheap,show me the code.
-
 ## [邑大开发者沙龙](wyu-dev-conf.md)
 
 >2014-5-17 邑大开发者沙龙(伟伦图书馆201)
