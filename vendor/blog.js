@@ -7,7 +7,7 @@
   var pageBase = 'p/';
   var pageExt = 'md';
   var mainPage = location.search.slice(1)
-    .replace(/&.*/, '') || 'Diary/index';
+    .replace(/&.*/, '') || 'Android/index';
   var mainTitle = '';
   var onlineUrl = 'http://jacsonlee.github.io/Blog/' +
     location.search.replace(/&.*/, '');
