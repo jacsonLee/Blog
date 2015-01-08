@@ -4,6 +4,7 @@
 
 - [Diary](Diary/index.md)
 - [Android](Android/index.md)
+- [Java](Java/index.md)
 - [PHP](PHP/index.md)
 - [Application](application/index.md)
 - [Repost](repost/index.md)
