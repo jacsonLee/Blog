@@ -6,3 +6,7 @@
 
 >* simple animated screen captures
 
+### [Astral](https://app.astralapp.com)
+
+>* manager you star
+
