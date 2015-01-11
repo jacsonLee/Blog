@@ -8,5 +8,5 @@
 
 ### [Astral](https://app.astralapp.com)
 
->* manager you star
+>* manage your github star
 
