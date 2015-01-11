@@ -1,5 +1,8 @@
 # MyAndroid 
 
+### [Android内存泄露](android_memory_leak.md)
+> 2015-1-11 关于Android的内存泄露
+
 ### [第一次gradle成功构建以及编译android stdio 项目](gradle1.md)
 > 很烂的教程，仅作参考
 
