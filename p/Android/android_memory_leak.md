@@ -80,3 +80,5 @@ Handler通过发送Message与主线程交互，Message发出之后是存储在Me
 [Android内存泄漏分析及调试](http://blog.csdn.net/gemmem/article/details/13017999)
 
 [Android进程的内存管理分析](http://blog.csdn.net/gemmem/article/details/8920039)
+
+[memory_management_for_android_apps](http://dubroy.com/memory_management_for_android_apps.pdf)
