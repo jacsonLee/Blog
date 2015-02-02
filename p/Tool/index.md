@@ -28,4 +28,6 @@ Extension | Intro
 [Sourcegraph](https://chrome.google.com/webstore/search/Sourcegraph?utm_source=chrome-ntp-icon) | 这又是一个非常重要的扩展，它能够在你的GitHub页面添加像IDE一样的功能。
 [GitHub Table of Content](https://github.com/ghiculescu/jekyll-table-of-contents)  | GitHub上被广泛称赞的是拥有许多重要的资源，例如像D3.js库，用于构建图形和可视化。那么你知道D3.js库可以在GitHub上展示数百种用法吗？如果你想建立属于自己GitHub页面，为什么不使用这个扩展功能来帮助你呢？
 
+### [Zeal](https://github.com/zealdocs/zeal/)
+>* The offline API documentation browser I love
 
