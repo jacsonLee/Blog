@@ -6,8 +6,6 @@
 
 > 理解（りかい）されるということは、一種（いっしゅ）の贅沢（ぜいたく）である。
 
-
-
 ## Major
 - Java
 - Android develops
@@ -22,5 +20,15 @@ CS College in WYU, China
 
 [@jacsonLee](https://github.com/jacsonLee)
 
-Chinese:
- **有理想的程序员不是码农**
+## FriendLink
+>* some excellent people's Blog 
+
+[JayinTon](http://jayinton.com/blog/index.html)
+
+[skyhacker2](http://my.oschina.net/skyhacker2/blog)
+
+[Fritx](http://fritx.github.io/blog/)
+
+[huangruichang](http://huangruichang.github.io/)
+
+[ankerjam](http://ankerjam.sinaapp.com/)
