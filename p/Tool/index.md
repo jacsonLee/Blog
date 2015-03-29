@@ -31,3 +31,6 @@ Extension | Intro
 ### [Zeal](https://github.com/zealdocs/zeal/)
 >* The offline API documentation browser I love
 
+### [trello](https://trello.com/oxygen/recommend)
+>* Team work tool used by xitu.io
+
