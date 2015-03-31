@@ -130,9 +130,7 @@ blockquote {
   }
 }
 
-.duck {
-  display: block;
-}
+
 
 .fork-me {
   position: fixed;
@@ -154,4 +152,8 @@ blockquote {
     margin-left: 25%;
     width: 75%;
   }
+
+  .duck {
+  display: block;
+}
 }
