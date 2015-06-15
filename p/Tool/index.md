@@ -14,6 +14,28 @@
 
 >* The largest online Tutorials Library
 
+
+
+### [tinyPng](https://tinypng.com/)
+
+>* Advanced lossy compression for PNG images that preserves full alpha transparency.
+
+### [OnlineSvg](http://editor.method.ac/)
+
+>* 很多图形处理工具不内建支持 .svg文件 ，我想把矢量图导出为指定规格的png文件这个在线工具帮了大忙
+
+### [AssetStudio](http://romannurik.github.io/AndroidAssetStudio/index.html )
+
+>* 在线制作android图标
+
+### [应用原型工具](https://www.flinto.com/)
+
+>* 限免
+
+### [origami](facebook.github.io/origami)
+>* facebook开放的原型制作工具
+
+
 ### [Github](https://github.com/jacsonLee)
 >* some useful github extension
 

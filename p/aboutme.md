@@ -16,6 +16,9 @@
 
 CS College in WYU, China
 
+
+## [我的简历](myresume.md)
+
 ## On Github
 
 [@jacsonLee](https://github.com/jacsonLee)
