@@ -6,7 +6,7 @@
 - [Diary](Diary/index.md)
 - [Android](Android/index.md)
 - [Java](Java/index.md)
-- [JavaScript](Javascript/index.md)
+- [FontEnd](Javascript/index.md)
 - [PHP](PHP/index.md)
 - [Tool](Tool/index.md)
 - [Repost](repost/index.md)
