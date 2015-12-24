@@ -224,7 +224,6 @@ IE特有的AlphaImageLoader滤镜是为了解决在IE7以下正彩色PNG图片�
 ### 31.不要在HTML中缩放图像——须权衡
 不要为了在HTML中设置长宽而使用比实际需要大的图片。如果你需要：
 
-<img width=”100″ height=”100″ src=”mycat.jpg” alt=”My Cat” />
 
 那么你的图片就应该是100×100像素而不是把一个500×500像素的图片缩小使用。
 
