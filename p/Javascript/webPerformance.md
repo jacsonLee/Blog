@@ -54,7 +54,7 @@ ul a {witdh:expression(this.offsetWidth > 750 ? scare() : scare());}
 </body>
 <html>
 ```
-![](webPerformance/runnumber.jpg)
+![](webPerformance/runNumber.jpg)
 
 ### 7.避免空的src和href
 留意具有这两个属性的标签如link，script，img，iframe等；src被javascript动态赋值的时候,会发多一个http请求,href标签也是同理。
@@ -117,7 +117,7 @@ HTTP/1.1 304 Not Modified
 
 ### 16.使用GET来完成AJAX请求
 当使用XMLHttpRequest时,浏览器中的POST方法是一个“两步走”的过程:首先发送文件头,然后才发送数据.在url小于2K时使用GET获取数据。
-![](WebPerformance/getajax.jpg)
+![](webPerformance/getajax.jpg)
 
 ### 17.组件延迟加载
 哪些是渲染这个页面必需的。剩下的内容都可以等到后来加载.
