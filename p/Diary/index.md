@@ -1,5 +1,8 @@
 #  Open & Share
 
+### [写在年末](WriteInTheEndOfYear.md)
+>* 世界不缺伟大的想法,缺伟大的执行力
+
 ### [口袋香港实习小记](koudaihkinternship.md)
 >* 莫问前程，但行好事 2015-8-23
 
