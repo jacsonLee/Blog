@@ -1,5 +1,8 @@
 #  Open & Share
 
+### [向死而生](BornToDie.md)
+>* 生死有命,人生苦短,及时行乐
+
 ### [写在年末](WriteInTheEndOfYear.md)
 >* 世界不缺伟大的想法,缺伟大的执行力
 
