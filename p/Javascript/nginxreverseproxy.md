@@ -32,7 +32,7 @@
  nginx安装 就不多说了 网上一大把
  首先需要科普一下 nginx配置文件里面的东西 看这篇文章
  
- http://www.cszhi.com/20120513/nginx_nginx-conf.html
+ https://segmentfault.com/a/1190000002797601
  
  
  我这里直入操作
