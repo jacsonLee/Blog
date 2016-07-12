@@ -61,21 +61,21 @@
  
  artifacets翻译过来是工件,个人愚见,应该是指工程里面某个阶段的产物!在这里！讲的那么高大上,其实就是要你配置一下打包输出的目录即可
  
- ![9](eclipse2Ij/9.png)
- 
  ![8](eclipse2Ij/8.png)
+ 
+ ![9](eclipse2Ij/9.png)
  
  
 ### step6
 
 接下来是tomcat的配置,看图应该都懂的了,最后点击三角形跑起来
 
-![10](eclipse2Ij/8.png)
-![11](eclipse2Ij/8.png)
+![10](eclipse2Ij/10.png)
+![11](eclipse2Ij/11.png)
 
 恭喜恭喜
 
-![12](eclipse2Ij/8.png)
+![12](eclipse2Ij/12.png)
 
 
 
