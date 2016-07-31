@@ -1,5 +1,8 @@
 #  Open & Share
 
+### [工作一周年](one-year-work.md)
+>* 权力就像毒药
+
 ### [向死而生](BornToDie.md)
 >* 生死有命,人生苦短,及时行乐
 
