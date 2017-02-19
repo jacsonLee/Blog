@@ -131,7 +131,7 @@
       .first().text();
     document.title = mainTitle;
     $('#disqus_thread').empty();
-    comments();
+    // comments();
     shares();
   }
 
