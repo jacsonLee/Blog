@@ -272,8 +272,8 @@
     });
 
     //// For comment systems
-    entryUrl = 'http://fritx.github.io/blog/';
-    shortName = 'fritx-blog';
+    entryUrl = 'http://jacsonlee.github.io/Blog/';
+    shortName = 'jason-blog';
 
     pageExt = '.md';
     pageBase = 'p/';
