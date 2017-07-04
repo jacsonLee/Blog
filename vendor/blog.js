@@ -276,8 +276,8 @@
     shortName = 'jason-blog';
 
     pageExt = '.md';
-    pageBase = 'p/';
-    defaultPage = 'diary';
+    pageBase = 'p/application/';
+    defaultPage = 'index';
   }
 
 })();
