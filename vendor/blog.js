@@ -173,10 +173,10 @@
     window.disqus_identifier = id;
     window.disqus_url = url;
 
-    var dsq = document.createElement('script');
-    dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    document.getElementsByTagName('body')[0].appendChild(dsq);
+    // var dsq = document.createElement('script');
+    // dsq.async = true;
+    // dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    // document.getElementsByTagName('body')[0].appendChild(dsq);
   }
 
   config();
@@ -277,7 +277,7 @@
 
     pageExt = '.md';
     pageBase = 'p/';
-    defaultPage = 'sidebar';
+    defaultPage = 'application/index';
   }
 
 })();
