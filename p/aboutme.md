@@ -8,16 +8,16 @@
 
 ## Major
 - Java
-- Android develops
-- Maybe cocos2d-x 
-- cpp & c
+- Javascript
+- MySQL
+- Linux
 
 ## College Studying In
 
 CS College in WYU, China
 
 
-## [我的简历](myresume.md)
+## [我的简历](jason.pdf)
 
 ## On Github
 
